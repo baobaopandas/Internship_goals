@@ -7,13 +7,13 @@ module.exports = {
     description: '云原生sap_intern体验',
     // HTML head 标签中的内容，常用于给网站添加图标和链接样式表
     head: [
-      ['link', { rel: 'icon', href: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/800px-Go_Logo_Blue.svg.png' }],
+      ['link', { rel: 'icon', href: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/1200px-SAP_2011_logo.svg.png' }],
     ],
   
     // vuepress 默认主题的设置
     themeConfig: {
       // 导航栏图标
-      logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/800px-Go_Logo_Blue.svg.png',
+      logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/1200px-SAP_2011_logo.svg.png',
       // 导航栏项目，按顺序从左到右显示
       nav: [
         // 单项
@@ -31,7 +31,7 @@ module.exports = {
 
       ],
   
-      
+
       // // 侧边栏
       // sidebar: {
       //   // HTML 笔记的侧边栏
