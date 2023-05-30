@@ -28,6 +28,7 @@ module.exports = {
             { text: 'goal', items: [{ text:'第一个月完成进度', link: '/goal/第一个月完成进度'}] },
           ],
         },
+        
       ],
   
       // // 侧边栏
