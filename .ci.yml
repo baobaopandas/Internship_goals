@@ -1,0 +1,5 @@
+version: 1
+flow:
+  - name: test
+    runtime:  eureka-docker-prod.common.repositories.cloud.sap/eureka/golang-sap:1.20
+    
